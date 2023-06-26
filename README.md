@@ -9,6 +9,6 @@ Data  Cleaning:
 
 Data Analysis:
 - After Cleaning the data, i created Pivot tables to generate summary analysis of the data and created appropriate charts to visualize these summary insights.
-- 
+  
 Dashboard Creation:
 - I then built a responsive dashboard of insights generated, with slicers to filter the results as accordinmg to marital status, Region, level of Education, and car ownership status. 
